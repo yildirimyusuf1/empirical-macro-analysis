@@ -1,4 +1,7 @@
 # Empirical Macroeconomic Analysis: The Preston Curve & Welfare Dynamics
+## Visualizations
+
+![The Preston Curve](preston_curve.png)
 
 A reproducible cross-country econometric analysis investigating the relationship between economic output (GDP per capita), human welfare (Life Expectancy), and structural energy transitions across global economies.
 
